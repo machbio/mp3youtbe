@@ -3,6 +3,8 @@
 url=$1
 path=$2
 
+mkdir -p $path
+
 TMP_FILE="youtube-mp3-$RANDOM.tmp"
 
 youtube-dl --ignore-errors --get-title --get-url --get-filename "$url" > $TMP_FILE 2> "/tmp/$TMP_FILE.err"

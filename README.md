@@ -32,13 +32,3 @@ You also can download all songs from a playlist at once:
     youtube-dl-mp3 "http://www.youtube.com/playlist?list=PL35104532FCBAE989"
 
 
-## Bugs and Feedback
-
-If you discover any bugs or have some idea, feel free to create an issue on GitHub:
-
-<https://github.com/jweslley/youtube-dl-mp3/issues>
-
-
-## License
-
-MIT License. Copyright (c) 2012 [Jonhnny Weslley](<http://www.jonhnnyweslley.net>)

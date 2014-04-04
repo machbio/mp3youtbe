@@ -19,7 +19,7 @@ On Ubuntu, these requirements can be installed using this comand:
 
 ## Usage
 
-    youtube-dl-mp3 "video-url"
+    youtube-dl-mp3 "video-url" /path/to/store/mp3files/.
 
 
 Example:
